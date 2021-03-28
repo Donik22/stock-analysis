@@ -33,4 +33,6 @@ Challenges Included Enabling macros, Designating appropraite Variables/Arrays, F
 ![Table_2018](https://github.com/Donik22/stock-analysis/blob/main/Resources/VBA_Challenge_2018.PNG)
 
 ## Conclusion
-Upon Analyzing We advice steves Parents To look into Two Stocks Namely **Enphae Energy(Ticker:ENPH)** & **Sunrun(Ticker:SUN)**. Those two stocks are the most traded and had an Excelent Two Year Run. Avoid Stocks like **TerraForm Power (Ticker:TEPR)** and **Daqo New Energy(Ticker: DQ)** due to negative returns and high volatility. The criteria for picking Or Avoiding these stocks are stable increase and Voume Traded.
+Upon Analyzing We advice steves Parents To look into Two Stocks Namely **Enphae Energy(Ticker:ENPH)** & **Sunrun(Ticker:SUN)**. Those two stocks are the most traded and had an Excelent Two Year Run. Avoid Stocks like **TerraForm Power (Ticker:TEPR)** and **Daqo New Energy(Ticker: DQ)** due to negative returns and high volatility. The criteria for picking Or Avoiding these stocks are stable increase and Voume Traded. The Script used to Produce these outputs will be attached below.
+
+[VBA_Script](https://github.com/Donik22/stock-analysis/blob/main/VBA_Challenge.vbs)
